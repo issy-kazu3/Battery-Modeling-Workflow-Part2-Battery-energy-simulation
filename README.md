@@ -42,6 +42,8 @@ The simulation calculates:
 - Charge/discharge histories
  
 This approach allows rapid evaluation of battery behavior under arbitrary load profiles.
+
+![eulermethod](https://github.com/issy-kazu3/Battery-Modeling-Workflow-Part2-Battery-energy-simulation/blob/main/image/euler_method2.png)
  
 ---
  
