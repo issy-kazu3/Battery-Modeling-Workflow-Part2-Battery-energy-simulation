@@ -80,6 +80,8 @@ Planned extensions include:
 - Temperature effects
 - Capacity degradation model
 - Cell balancing analysis
+
+The next part of this series (part-3) will demonstrate how this battery energy simulator can be combined with Design of Experiments (DOE) techniques to evaluate parameter sensitivity and optimize battery system performance.
  
 ---
  
