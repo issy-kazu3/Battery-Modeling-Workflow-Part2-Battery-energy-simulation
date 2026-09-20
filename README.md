@@ -75,10 +75,8 @@ Typical use cases include:
  
 Planned extensions include:
  
-- Internal resistance model
 - Temperature effects
 - Capacity degradation model
-- Open circuit voltage (OCV) model
 - Cell balancing analysis
  
 ---
