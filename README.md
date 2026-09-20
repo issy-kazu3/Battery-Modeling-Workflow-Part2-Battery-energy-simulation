@@ -1,7 +1,8 @@
 # Battery-Modeling-Workflow-Part2-Battery-energy-simulation
 Python-based battery energy simulator implementing Euler time integration for charge/discharge energy analysis with an interactive GUI.
 
-This project is part of the Battery Modeling Workflow series. You can use this as the  tutial of battery energy flow too.
+This project is part of the Battery Modeling Workflow series. 
+It can also be used as a tutorial for understanding battery energy flow and State of Charge (SOC) evolution.
  
 The application simulates battery energy behavior using a time-domain energy balance model based on Euler integration. A Python GUI enables users to configure battery parameters, load profiles, and simulation conditions without editing source code.
  
@@ -15,7 +16,7 @@ The application simulates battery energy behavior using a time-domain energy bal
 - Charge and discharge energy analysis
 - Interactive Python GUI
 - CSV input and output support
-- Easy extension for DOE studies and system-level battery modeling
+- Designed for easy extension to DOE studies and system-level battery modeling
 
 ![outlook](https://github.com/issy-kazu3/Battery-Modeling-Workflow-Part2-Battery-energy-simulation/blob/main/image/simulator_outlook.png)
 
@@ -81,7 +82,7 @@ Planned extensions include:
 - Capacity degradation model
 - Cell balancing analysis
 
-The next part of this series (part-3) will demonstrate how this battery energy simulator can be combined with Design of Experiments (DOE) techniques to evaluate parameter sensitivity and optimize battery system performance.
+The next part of this series (Part 3) will demonstrate how this simulator can be integrated with Design of Experiments (DOE) techniques for parameter sensitivity analysis and battery system optimization.
  
 ---
  
