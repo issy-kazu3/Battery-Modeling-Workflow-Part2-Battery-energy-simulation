@@ -16,6 +16,8 @@ The application simulates battery energy behavior using a time-domain energy bal
 - Interactive Python GUI
 - CSV input and output support
 - Easy extension for DOE studies and system-level battery modeling
+
+
  
 ---
  
@@ -82,7 +84,7 @@ Planned extensions include:
  
 ## Author
  
-Waku
+Kazuhisa Ishizuka
  
 Battery Modeling Workflow Series
 Part 2: Battery Energy Simulation
