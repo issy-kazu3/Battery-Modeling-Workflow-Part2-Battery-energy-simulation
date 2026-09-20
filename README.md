@@ -1,7 +1,7 @@
 # Battery-Modeling-Workflow-Part2-Battery-energy-simulation
 Python-based battery energy simulator implementing Euler time integration for charge/discharge energy analysis with an interactive GUI.
 
-This project is part of the Battery Modeling Workflow series.
+This project is part of the Battery Modeling Workflow series. You can use this as the  tutial of battery energy flow too.
  
 The application simulates battery energy behavior using a time-domain energy balance model based on Euler integration. A Python GUI enables users to configure battery parameters, load profiles, and simulation conditions without editing source code.
  
