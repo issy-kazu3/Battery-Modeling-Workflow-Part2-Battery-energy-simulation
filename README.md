@@ -17,6 +17,7 @@ The application simulates battery energy behavior using a time-domain energy bal
 - CSV input and output support
 - Easy extension for DOE studies and system-level battery modeling
 
+![outlook](https://github.com/issy-kazu3/Battery-Modeling-Workflow-Part2-Battery-energy-simulation/blob/main/image/simulator_outlook.png)
 
  
 ---
