@@ -1,0 +1,2 @@
+cell capa,max v,min v,start soc,finished soc,max current,max charge cell current,max sys v,min sys v,n-seri,n-para,pack weight kg,DOD,total loss wh,result
+1.8,4.2,2.7,50.0,43.70963614262101,300.0,300.0,700.0,290.0,106,1,10.6,21.705688008878575,274.89127337531386,min system voltage limit
